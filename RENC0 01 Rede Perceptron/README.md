@@ -13,6 +13,7 @@ A indústria Gelatina Ltda. está analisando a possibilidade de implementação 
  - Apresentar a matriz de confusão.
  
  Por fim, deve-se **plotar 2 gráficos** conforme especificado abaixo:
+ 
  - **1º gráfico:** plotar os dados do subconjunto de treinamento (ex: dados relativos às saídas iguais a 0 devem ser plotados como “X” e dados relativos às saídas iguais a 1 devem ser plotados como “.”) e também a reta advinda dos parâmetros da rede Perceptron (reta obtida por meio do valor final dos pesos e bias (valores estes obtidos na última iteração do processo de treinamento));
  - **2º gráfico:** plotar os dados do subconjunto de teste (ex: dados relativos às saídas 0 devem ser plotados como “X” e dados relativos às saídas 1 devem ser plotados como “.”) e também a reta advinda dos parâmetros da rede Perceptron (reta obtida por meio do valor final dos pesos e bias (valores estes obtidos na última iteração do processo de treinamento)).
 
