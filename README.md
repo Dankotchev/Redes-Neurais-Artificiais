@@ -24,6 +24,8 @@ Repositório contendo resoluções de atividades, listas de exercícios e provas
 		* Funçãos ReLU e Softmax
 	* Treinamento supervisionado e não supervisionado
 * Rede Perceptron
+* Rede Adeline (_Adaptive Linear Element_)
+	* Regra Delta
 * Rede Perceptron Multicamadas
 * 
 
