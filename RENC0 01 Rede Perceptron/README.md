@@ -1,3 +1,5 @@
+[🏠 Página inicial](../README.md)
+
 # Implementação Computacional da Rede Neural Artificial Perceptron
 
 A indústria Gelatina Ltda. está analisando a possibilidade de implementação de uma rede neural Perceptron para controlar (ligar ou desligar) o motor de um processo específico de sua linha de produção. Durante o período de 1 mês realizou-se a aquisição dos dados relativos às variáveis de entrada (Pressão e Temperatura) e saída (Acionamento do motor), ou seja, monitorou-se o comportamento do processo. Neste sentido, implemente computacionalmente uma rede Perceptron para que sejam realizadas as etapas de treinamento e teste. As/os amostras/padrões representativas/os do comportamento do sistema estão dispostas/os no arquivo em anexo. Ademais, considere as informações abaixo:

@@ -23,11 +23,11 @@ Repositório contendo resoluções de atividades, listas de exercícios e provas
 		* Funções sigmoides
 		* Funçãos ReLU e Softmax
 	* Treinamento supervisionado e não supervisionado
-* Rede Perceptron
+* [Rede Perceptron](RENC0%2001%20Rede%20Perceptron/README.md)
 * Rede Adeline (_Adaptive Linear Element_)
 	* Regra Delta
-* Rede Perceptron Multicamadas
-* 
+* [Rede Perceptron Multicamadas](RENC0%2002%20Rede%20Perceptron%20Multicamada/README.md)
+* [Rede Recorrente Hopfield](RENC0%2003%20Rede%20Hopfield/README.md)
 
 A disciplina ministrada pelo professor José Guilherme Magalini Santos Decanini.
 
